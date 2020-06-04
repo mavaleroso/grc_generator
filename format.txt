@@ -1,0 +1,7 @@
+Region Code
+Divison Code
+Section Code
+Category Code
+Year
+Month
+Sequence Number
